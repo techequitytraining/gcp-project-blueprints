@@ -32,7 +32,7 @@ To create this custom data analysis environment:
 
 1. **Set Up AI Platform Notebooks:** Start by deploying JupyterLab instances on AI Platform Notebooks. This service simplifies the management of JupyterLab, providing a ready-to-use environment for data analysis and machine learning projects.
 
-2. **Configure Virtual Private Cloud (VPC):** Establish a VPC to ensure your data analysis environment is securely isolated within the cloud. This step involves setting up network configurations that suit your project's security and communication requirements.
+2. **Configure Virtual Private Cloud:** Establish a VPC to ensure your data analysis environment is securely isolated within the cloud. This step involves setting up network configurations that suit your project's security and communication requirements.
 
 3. **Utilize Cloud Storage:** Create Cloud Storage buckets for storing datasets, analysis scripts, and output results. Organize your data in a way that supports efficient access and processing.
 
