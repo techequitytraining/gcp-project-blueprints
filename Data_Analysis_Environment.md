@@ -24,7 +24,7 @@ This blueprint provides a comprehensive guide for establishing a custom managed 
 
 The architecture diagram below illustrates the foundational structure of the custom data analysis environment. It showcases how the various Google Cloud Platform (GCP) services and open-source tools integrate to provide a comprehensive, secure, and scalable environment for data analysis.
 
-![](./images/architecture.png)
+![](./images/Data_Analysis_Environment.png)
 
 ## Getting Started
 
