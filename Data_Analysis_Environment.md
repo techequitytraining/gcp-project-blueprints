@@ -14,7 +14,7 @@ This blueprint provides a comprehensive guide for establishing a custom managed 
 ## Cloud Services Utilized
 
 - **AI Platform Notebooks:** For deploying and managing JupyterLab environments in a scalable and secure manner.
-- **Virtual Private Cloud (VPC):** Offers a private network for securely managing cloud resources and services.
+- **Virtual Private Cloud:** Offers a private network for securely managing cloud resources and services.
 - **Cloud Storage:** Provides durable and highly available storage for data and analysis outputs.
 - **Cloud Build:** Enables continuous integration and delivery (CI/CD) for automating the build, test, and deployment processes.
 - **Container Registry:** A secure repository for managing Docker images, performing vulnerability analysis, and controlling access with fine-grained permissions.
