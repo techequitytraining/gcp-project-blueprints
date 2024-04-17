@@ -17,7 +17,7 @@ This blueprint presents a comprehensive guide for creating a managed environment
 
 The diagram below serves as a foundational model for the data analysis platform. It depicts a scalable and adaptable architecture that incorporates various cloud services and tools, initiated and managed through a deployment script. This architecture is designed to provide a robust starting point from which the platform can be customized and scaled according to specific project requirements.
 
-![](./images/architecture.png)
+![](./images/Data_Analysis_Platform.png)
 
 ## Customization and Integration
 
