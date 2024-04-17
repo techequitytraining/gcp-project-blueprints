@@ -16,7 +16,7 @@ This module outlines the setup for a comprehensive Data Science Platform, design
 
 The architecture diagram below serves as a guide for setting up the Data Science Platform. It illustrates the core components and their interactions within the cloud environment, providing a scalable and secure foundation for data science projects.
 
-![](./images/architecture.png)
+![](./images/Data_Science_Platform.png)
 
 ## Customization and Deployment
 
