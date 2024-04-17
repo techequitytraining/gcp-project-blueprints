@@ -7,7 +7,7 @@ This blueprint presents a comprehensive guide for creating a managed environment
 ## Cloud Services Utilized
 
 - **Workbench Notebooks:** For interactive data exploration and analysis.
-- **Virtual Private Cloud (VPC):** Ensures secure and efficient network management of cloud resources.
+- **Virtual Private Cloud:** Ensures secure and efficient network management of cloud resources.
 - **Data Warehouse Service:** Provides scalable solutions for large-scale data analytics.
 - **Data Sharing and Analytics Platform:** Facilitates access to and analysis of shared data resources.
 - **Cloud Storage:** Offers reliable and scalable storage solutions for data.
