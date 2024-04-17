@@ -18,7 +18,7 @@ This blueprint offers a scalable and automated framework for executing data proc
 
 The architecture diagram below illustrates the components and flow of the Serverless Data Processing Framework. It depicts how data files uploaded to a designated Cloud Storage bucket trigger automated data processing jobs, utilizing containerized tools and the Life Sciences API for execution.
 
-![](./images/architecture.png)
+![](./images/Data_Processing_Pipeline.png)
 
 ## Getting Started
 
