@@ -8,7 +8,7 @@ This blueprint offers a scalable and automated framework for executing data proc
 
 - **Cloud Functions:** For event-driven execution of data processing tasks.
 - **Cloud Storage:** To store input data files and output results securely.
-- **Virtual Private Cloud (VPC):** For secure network management of cloud resources.
+- **Virtual Private Cloud:** For secure network management of cloud resources.
 - **Life Sciences API:** To automate the execution of containerized data processing jobs.
 - **Compute Engine:** For scalable compute resources to run data processing tasks.
 - **Container Registry:** To manage and store containerized tools and applications.
