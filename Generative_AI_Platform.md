@@ -16,7 +16,7 @@ This blueprint provides a comprehensive guide for setting up a Generative AI Exp
 
 The diagram below illustrates the foundational architecture designed to support generative AI projects within the Google Cloud environment. It highlights the integration of essential cloud services and the deployment process facilitated by the RAD Lab Launcher and RAD Lab UI.
 
-![](./images/architecture.png)
+![](./images/Generative_AI_Platform.png)
 
 ## Getting Started
 
