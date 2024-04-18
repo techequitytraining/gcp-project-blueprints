@@ -28,7 +28,7 @@ The diagram below illustrates the foundational architecture of the bioinformatic
 ## Getting Started
 
 - **Initial Setup:** Once deployed, a storage bucket is created for workflow execution. Access to non-public input files requires configuration of the Service Account.
-- **Accessing the Server:** SSH access to the Nextflow server is provided, with detailed instructions for initial login and troubleshooting.
+- **Accessing the Server:** Secure Shell access to the Nextflow server is provided, with detailed instructions for initial login and troubleshooting.
 - **Workflow Execution:** Examples are provided to test the deployment with both Life Sciences API and Batch API, ensuring a smooth start with the framework.
 
 ## Additional Information
