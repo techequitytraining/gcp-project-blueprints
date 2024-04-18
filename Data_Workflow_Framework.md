@@ -2,21 +2,21 @@
 
 ## Overview
 
-This framework outlines a scalable and portable solution for data workflows, focusing on bioinformatics as a use case, utilizing Nextflow, a powerful workflow manager designed for complex computational pipelines in the life sciences domain. Nextflow facilitates the development of portable and reproducible workflows, capable of running across various execution platforms such as local environments, high-performance computing (HPC) schedulers, and cloud-based services including Google Cloud Life Sciences and Kubernetes. It also integrates seamlessly with dependency management tools like Conda and Docker, enhancing the reproducibility and portability of computational analyses.
+This framework outlines a scalable and portable solution for data workflows, focusing on bioinformatics as a use case, utilizing Nextflow, a powerful workflow manager designed for complex computational pipelines in the life sciences domain. Nextflow facilitates the development of portable and reproducible workflows, capable of running across various execution platforms such as local environments, high-performance computing schedulers, and cloud-based services including Google Cloud Life Sciences and Kubernetes. It also integrates seamlessly with dependency management tools like Conda and Docker, enhancing the reproducibility and portability of computational analyses.
 
 ## Features
 
 - **Portability and Reproducibility:** Nextflow supports a variety of execution platforms and dependency management systems, ensuring workflows can be easily shared and reproduced.
-- **Secure Workflow Execution:** The framework deploys a Nextflow server alongside necessary configurations, including a Service Account and firewall rules, to facilitate secure access through an Identity-Aware Proxy (IAP) Tunnel, eliminating the need for public IP addresses.
+- **Secure Workflow Execution:** The framework deploys a Nextflow server alongside necessary configurations, including a Service Account and firewall rules, to facilitate secure access through an Identity-Aware Proxy Tunnel, eliminating the need for public IP addresses.
 - **Automated Resource Provisioning:** Upon deployment, resources such as a Cloud Storage Bucket for workflow execution are automatically created, streamlining the setup process.
-- **Ease of Access:** Secure Shell (SSH) access to the Nextflow server is simplified, enabling straightforward interaction with the deployed environment.
+- **Ease of Access:** Secure Shell access to the Nextflow server is simplified, enabling straightforward interaction with the deployed environment.
 
 ## Cloud Services Utilized
 
 - Life Sciences API and Batch API for workflow execution
 - Cloud Compute for server hosting
 - Cloud Storage for data management
-- Virtual Private Cloud (VPC) for network security
+- Virtual Private Cloud for network security
 - Billing Budget for cost management
 
 ## Reference Architecture
