@@ -16,7 +16,7 @@ This blueprint details the setup of a powerful workflow management system design
 - **Cloud Compute:** Hosts the Cromwell server, providing compute resources for workflow execution.
 - **CloudSQL:** Offers a managed relational database service for Cromwell's backend.
 - **Cloud Storage:** Serves as a centralized storage solution for workflow inputs, outputs, and logs.
-- **Virtual Private Cloud (VPC):** Ensures secure network management for cloud resources.
+- **Virtual Private Cloud:** Ensures secure network management for cloud resources.
 - **Billing Budget:** Monitors cloud spending to maintain cost efficiency.
 
 ## Reference Architecture
