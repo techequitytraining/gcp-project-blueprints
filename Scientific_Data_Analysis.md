@@ -23,7 +23,7 @@ This blueprint details the setup of a powerful workflow management system design
 
 The architecture diagram below illustrates the comprehensive setup of the Scientific Data Analysis Workflow Platform. It highlights the integration of Cromwell with Google Cloud services, creating a secure and scalable environment for executing scientific workflows.
 
-![](./images/architecture.png)
+![](./images/Scientific_Data_Analysis.png)
 
 ## Getting Started
 
