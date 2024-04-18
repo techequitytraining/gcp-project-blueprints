@@ -17,7 +17,7 @@ This module provides a blueprint for leveraging advanced prediction systems, exe
 
 The architecture diagram below serves as a foundational guide for creating an environment that supports predictive data analysis. This setup is initiated through a deployment script, which can be customized to fit specific project needs.
 
-![](./images/architecture.png)
+![](./images/Predictive_Data_Analysis.png)
 
 The deployment focuses on user-managed notebooks within the workbench, providing a flexible and controlled environment for running predictive models like AlphaFold. It leverages a custom Docker image stored in the Artifact Repository, preconfigured with necessary packages and tools for seamless integration into the data science workflow.
 
