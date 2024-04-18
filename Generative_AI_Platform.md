@@ -9,7 +9,7 @@ This blueprint provides a comprehensive guide for setting up a Generative AI Exp
 - **Vertex AI Workbench Notebooks:** For interactive development and testing of generative AI models.
 - **BigQuery:** A fully-managed, serverless data warehouse for scalable data analytics.
 - **Cloud Storage:** Robust and secure storage for data and model artifacts.
-- **Virtual Private Cloud (VPC):** A customizable cloud-based network for secure and efficient resource management.
+- **Virtual Private Cloud:** A customizable cloud-based network for secure and efficient resource management.
 - **Billing Budget:** Tools for monitoring and managing cloud spending to ensure cost-effectiveness.
 
 ## Reference Architecture
