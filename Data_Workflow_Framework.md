@@ -23,7 +23,7 @@ This framework outlines a scalable and portable solution for data workflows, foc
 
 The diagram below illustrates the foundational architecture of the bioinformatics workflow framework, showcasing the components and their interactions within the cloud environment. This architecture is designed to be modular and adaptable to specific research needs.
 
-![](./images/architecture.png)
+![](./images/Data_Workflow_Framework.png)
 
 ## Getting Started
 
