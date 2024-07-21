@@ -1,6 +1,6 @@
 # Tech Equity Cloud Services Blueprints
 
-Welcome to the Tech Equity Cloud Services Blueprints repository. Our blueprints has been meticulously crafted to support advanced Google Cloud partner and client training workshops, as well as enterprise solution implementations across various industry projects. Our goal is to accelerate your project's time to value while ensuring the highest quality through the adherence to Google Cloud best practices and the utilization of automated deployment tools.
+Welcome to the Tech Equity Blueprints repository. Our blueprints has been meticulously crafted to support advanced Google Cloud partner and client training workshops, as well as enterprise solution implementations across various industry projects. Our goal is to accelerate your project's time to value while ensuring the highest quality through the adherence to Google Cloud best practices and the utilization of automated deployment tools.
 
 ## Overview
 
@@ -13,5 +13,8 @@ This repository houses an overview of blueprints designed to facilitate the rapi
 - **Best Practices:** Each blueprint adheres to Google Cloud's best practices, ensuring your projects are built on a solid foundation.
 - **Customizable Solutions:** While our blueprints provide a solid starting point, they are fully customizable to meet your specific project requirements.
 
+## Features
+
+Are you interested in exploring our advanced cloud blueprints for project based services or training engagements? Contact support@techequity.cloud
 
 
