@@ -25,10 +25,14 @@ Here is a point-by-point verification of the features you listed, along with my 
     *   **Details:** The system is designed to fetch Terraform modules from a Git repository and supports private repositories via a GitHub token.
 
 *   **The credit cost can be defined as a configuration for each module**
-    *   **Status:** Implemented differently.
-    *   **Details:** Instead of a fixed cost per module, the platform calculates costs based on the actual resources deployed and their usage, which is a more accurate and flexible approach.
+    *   **Status:** Implemented.
+    *   **Details:** A fixed deployment cost can be assigned to each module. The user's credit balance is debited when the module successfully deploys.
 
-*   **The author can include a description that is redered on the module tooltip**
+*   **The credit cost are deducted based on GCP resource consumption**
+    *   **Status:** Implemented.
+    *   **Details:** The platform calculates costs based on the actual resources deployed and their usage, and these costs are debited from the user's credit balance.
+
+*   **The module author can include a description that is redered on the module tooltip**
     *   **Status:** Implemented.
     *   **Details:** Module metadata, including descriptions, is fetched from the Git repository and displayed in the UI.
 
@@ -95,8 +99,6 @@ Here is a point-by-point verification of the features you listed, along with my 
     *   **Status:** Implemented.
 
 ## Additional Platform Capabilities
-
-During my review, I also identified several other important features that you may find useful:
 
 *   **Role-Based Access within Deployments:** You can assign `trusted_users` and `owner_users` to specific deployments, allowing for fine-grained control over who can access and manage deployed resources.
 *   **Global and Tiered Variables:** Admins can set global variables that apply to all deployments. The system uses a clear precedence (user variables > module variables > global variables) to provide both flexibility and administrative control.
