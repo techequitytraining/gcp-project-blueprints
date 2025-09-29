@@ -43,7 +43,7 @@ After selecting a module, you will be taken to the provisioning page, where you 
 
 1. **Configuration Form:** A form will be displayed with a series of fields. These are the variables required to deploy the module, such as project IDs, regions, or other specific settings.
 2. **Fill out the Form:** Complete all the required fields with the appropriate information for your deployment.
-3. **Submit:** Once you have filled out the form, click the **Submit** button. The application will validate your inputs and, if your credit balance is sufficient, begin the deployment process.
+3. **Submit:** Once you have filled out the form, click the **Submit** button. The application will display module dependencies and validate your inputs and, if your credit balance is sufficient, begin the deployment process.
 
 You will be redirected back to the **Deployments** page, where you can monitor the status of your new deployment.
 
