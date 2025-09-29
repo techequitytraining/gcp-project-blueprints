@@ -2,11 +2,11 @@
 
 ## 1. Introduction and Getting Started
 
-Welcome to the application! This document will guide you through the features and functionalities available.
+Welcome to the Rapid Application Deployment documentation. This document will guide you through key features and functionalities of the platform.
 
 ### 1.1. Logging In
 
-Access to the application is handled through a secure sign-on system. Upon your first visit, you will be prompted to log in with your credentials.
+Access to the application is handled through a secure sign-on system. Upon your first visit, you will be prompted to log in with your Google credentials.
 
 ### 1.2. The Main Dashboard (Deployments Page)
 
